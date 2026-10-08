@@ -1,0 +1,6 @@
+* text=auto
+
+*.chm binary
+*.dll binary
+
+/README.md export-ignore
